@@ -1,2 +1,2 @@
 # Python_basics_shyrus
-Start learning python!!
+Learning Python Basics!!
